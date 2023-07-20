@@ -1,0 +1,11 @@
+C:\Work\My\codewars\Tests\bin\Debug\Tests.dll
+C:\Work\My\codewars\Tests\bin\Debug\Tests.pdb
+C:\Work\My\codewars\Tests\bin\Debug\nunit.framework.dll
+C:\Work\My\codewars\Tests\bin\Debug\nunit.framework.xml
+C:\Work\My\codewars\Tests\obj\Debug\Tests.csproj.AssemblyReference.cache
+C:\Work\My\codewars\Tests\obj\Debug\Tests.csproj.CoreCompileInputs.cache
+C:\Work\My\codewars\Tests\obj\Debug\Tests.csproj.CopyComplete
+C:\Work\My\codewars\Tests\obj\Debug\Tests.dll
+C:\Work\My\codewars\Tests\obj\Debug\Tests.pdb
+C:\Work\My\codewars\Tests\bin\Debug\Levels.dll
+C:\Work\My\codewars\Tests\bin\Debug\Levels.pdb

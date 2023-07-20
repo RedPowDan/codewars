@@ -1,0 +1,6 @@
+C:\Work\My\codewars\Levels\bin\Debug\Levels.dll
+C:\Work\My\codewars\Levels\bin\Debug\Levels.pdb
+C:\Work\My\codewars\Levels\obj\Debug\Levels.csproj.AssemblyReference.cache
+C:\Work\My\codewars\Levels\obj\Debug\Levels.csproj.CoreCompileInputs.cache
+C:\Work\My\codewars\Levels\obj\Debug\Levels.dll
+C:\Work\My\codewars\Levels\obj\Debug\Levels.pdb
