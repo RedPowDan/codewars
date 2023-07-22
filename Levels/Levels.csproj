@@ -39,6 +39,7 @@
     </ItemGroup>
     <ItemGroup>
         <Compile Include="Level1\DrawStairs\DrawStairHelper.cs" />
+        <Compile Include="Level3\DiffArray\Kata.cs" />
         <Compile Include="Properties\AssemblyInfo.cs" />
     </ItemGroup>
     <ItemGroup>
